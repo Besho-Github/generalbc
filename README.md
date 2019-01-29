@@ -1,2 +1,2 @@
-# generalbc
+# Bc
 bc bot
